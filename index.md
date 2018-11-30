@@ -168,7 +168,7 @@ Finally, if the user chooses option 3.
 This option is fully encapsulated by the conditional statement where decision equals three. Here it is important to remember to close “c” the cursor, and “connection” the connection to the database when you are finished using the database.
 
 
-## Example Program and Explanation Extened
+## Example Program and Explanation Extension
 For this example we will extend from code given in the first example and add another function to demonstrate and explain how to remove certain fields from the database.
 
 
