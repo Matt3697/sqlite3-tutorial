@@ -31,7 +31,7 @@ Furthermore, this tutorial uses Python as the programming language to automate t
 Noticeably, programs do not save any data in memory between program executions, this is where databases will come in very handy.
 The following information is available at https://docs.python.org/2/library/sqlite3.html however, sometimes it can be hard to understand programming language documentation.
 
-##Example Program and Explanation 1
+## Example Program and Explanation
 
 In this example we will build a simple database of students called “student”, and then print all of the values within our student database in a python program.
 
@@ -168,7 +168,7 @@ Finally, if the user chooses option 3.
 This option is fully encapsulated by the conditional statement where decision equals three. Here it is important to remember to close “c” the cursor, and “connection” the connection to the database when you are finished using the database.
 
 
-## Example Program and Explanation 2
+## Example Program and Explanation Extened
 For this example we will extend from code given in the first example and add another function to demonstrate and explain how to remove certain fields from the database.
 
 
@@ -181,7 +181,7 @@ For this example we will extend from code given in the first example and add ano
 In this method, we retrieve the student name from standard input. Then, we need to still use “c”, the same cursor object that we used in the previous examples, to execute a delete statement in the student table. In this example we increased the complexity slightly by specifying where to delete from in the table with the “WHERE” specification. Then we include the name we retrieved from standard input as a tuple, to remove the student from the student table.
 After performing this operation, use the printContent() method that you created earlier to ensure that the removeStudent() method worked as expected.
 
-##Practice Problems
+## Practice Problems
 
 **Problem 1:** A manager of a business wants your help creating a database, the manager wants you to organize all his employees in a table where each employee has an ID, name, department, date employed. In this table, you will insert a few entries to be used for later problems. You should imply the data types for your table.
 
