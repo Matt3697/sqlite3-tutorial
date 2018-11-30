@@ -199,11 +199,11 @@ Entry 5: 174, Zelis Zompzon, Marketing, 9/17/1997
 
 **Problem 3:** Turns out the business has taken some hits recently and will be going through some downsizing. Now that certain employees will no longer be working at the company the manager would like us to remove certain employees from the database. The manager would like us to remove Employee with ID 001 from the table. Also, unfortunately, it would seem the entire accounting department will need to go, and so the manager in an effort to save text, would like you to delete all members of accounting from the table via one line of sql code. You will then show him the table with the remaining employees. 
 
-##Further Resources
+## Further Resources
 
 Link to full program from example 1: [Problem1 Github](https://github.com/Matt3697/CSCI-440/blob/master/sql_tutorial.py "Our Github Repo for Problem1")
 
-###References
+### References
 
 [DB-API 2.0 interface for SQLite databases](https://docs.python.org/2/library/sqlite3.html "DB-API 2.0 interface for SQLite databases")
 
@@ -211,7 +211,7 @@ Link to full program from example 1: [Problem1 Github](https://github.com/Matt36
 
 [SQLite Python: Querying Data](http://www.sqlitetutorial.net/sqlite-python/sqlite-python-select/ "SQLite Python: Querying Data")
 
-###Tutorial Authors
+### Tutorial Authors
 
 Michael Pollard
 
